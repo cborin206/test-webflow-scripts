@@ -1,6 +1,4 @@
-<script type="text/javascript" id="bloomerangForm689152"></script>
-<pre><script type="text/javascript">
-    var insertForm689152 = function() {
+var insertForm689152 = function() {
         var html689152 = '<style text=\'text/css\'>' + 
 '.registration-form label{color: #404040;' + 
 '                display: block;}' + 
@@ -1290,4 +1288,3 @@ Bloomerang.Data.PayPal.IsPayPalPaymentMethodVaultingEnabled = false;Bloomerang.D
                 };
 
                 startBloomerangLoad();
-</script></pre>
